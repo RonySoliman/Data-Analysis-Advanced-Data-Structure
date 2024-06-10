@@ -1,1 +1,1 @@
-# Data-Science-project-using-series-of-functions
+# Data Science Project
